@@ -1,1 +1,2 @@
-# Project using trasnformer
+# Project
+# Model comparisons between LSTM and pre-trained model with transformer
